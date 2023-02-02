@@ -1,3 +1,6 @@
 [submodule "AddressablePackage/Packages/uimanager"]
 	path = AddressablePackage/Packages/uimanager
 	url = https://github.com/robert1979/uimanager.git
+[submodule "AddressablePackage/Packages/addressables_helper"]
+	path = AddressablePackage/Packages/addressables_helper
+	url = https://github.com/robert1979/addressables_helper.git

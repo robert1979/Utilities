@@ -1,7 +1,16 @@
 {
   "dependencies": {
+    "com.attar033.addressables_helper": {
+      "version": "file:addressables_helper",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.addressables": "1.19.19",
+        "com.cysharp.unitask": "1.19.19"
+      }
+    },
     "com.attar033.com.attar033.uimanager": {
-      "version": "file:UIManager",
+      "version": "file:uimanager",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
