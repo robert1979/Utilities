@@ -17,11 +17,6 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 7ec93a92b0ddf4d7b9eb1ff908d3144c
   m_SerializeEntries:
-  - m_GUID: 23093256438f54d439b4cb4019776b25
-    m_Address: Assets/UIManager/UISpriteAtlas/UISpriteAtlas.spriteatlas
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - UI
   - m_GUID: 9707bf2df0e034133b361da865be1a7a
     m_Address: Assets/AddressablesHelper/Prefab/DarkForest.prefab
     m_ReadOnly: 0
