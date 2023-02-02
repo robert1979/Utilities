@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.attar033.com.attar033.uimanager": {
+      "version": "file:UIManager",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.cysharp.unitask": {
       "version": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
       "depth": 0,
